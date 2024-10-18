@@ -25,7 +25,7 @@
     欧松板打底，大量用胶
 - ??? warning "门洞立面没有贴砖，无法做单包套"
     <video width="640" height="360" controls>
-        <source src="./videos/一种单包套的做法.mp4" type="video/mp4">
+        <source src="../../videos/一种单包套的做法.mp4" type="video/mp4">
     </video>   
 
 ###厨房
