@@ -19,7 +19,7 @@ theme:
     - search.highlight  #搜索词高亮突出显示
     - search.share   #搜索共享
 nav:
-  - 首页: index.md
+  - 前言: index.md
   - 拆除: demolition.md
   - 砌墙: bricklaying.md
   - 水电: pe.md
