@@ -1,0 +1,66 @@
+site_name: 2024装修记录  # 网站名称
+theme:
+  name: material  # 使用 material 主题
+  palette:
+  primary: 'deep purple'
+  accent: 'deep purple'
+  language: 'zh'
+  icon:
+    annotation: material/arrow-right-circle
+  features:
+    - navigation.instant # 现在页面不会跳转,而是类似单页应用,搜索和各种跳转都是在当前页面完成,对美观有很大帮助
+    - navigation.tracking # 页面滚动时，导航栏高亮当前页面
+    - toc.follow # 滚动的时候侧边栏自动跟随
+    - toc.integrate
+    - navigation.top  #返回顶端
+    - search.suggest  #搜索建议，省略回车
+    - search.highlight  #搜索词高亮突出显示
+    - search.share   #搜索共享
+nav:
+  - 首页: index.md
+  - 拆除: demolition.md
+  - 砌墙: bricklaying.md
+  - 水电: pe.md
+  - 瓦工: tile_work.md
+  - 木工: carpentry.md
+  - 全屋定制: customization.md
+  - 五花八门的门: door.md
+  - 油漆: painting.md
+  
+extra_css:
+  - stylesheets/custom.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - def_list
+  - pymdownx.critic
+  - pymdownx.mark
+  - pymdownx.caret
+  - pymdownx.tilde
+  - pymdownx.keys
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+
+plugins:
+   - search: #搜索
+   - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: fade
+       slide_effect: slide
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
+       skip_classes:
+         - custom-skip-class-name
+       auto_caption: false
+       caption_position: bottom
+       background: white
+       shadow: true
+       manual: false
