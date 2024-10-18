@@ -1,4 +1,5 @@
 site_name: 2024装修记录  # 网站名称
+repo_url: https://github.com/LPKnight/2024renovation
 theme:
   name: material  # 使用 material 主题
   palette:

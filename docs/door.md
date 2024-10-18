@@ -42,7 +42,7 @@
 ![避坑攻略](images/淋浴房关键字.png "淋浴房关键字")
 
 ???+ warning "公卫的淋浴房装到了干区"
-    <img src="/images/淋浴房安装.jpg" width="400">
+    <img src="/images/淋浴房安装.jpg" width="300">
     
 ## 断桥铝
 ![避坑攻略](images/断桥铝选购指南.jpg "断桥铝选购指南"){: figcaption=1435 style="width:50vw;" }
