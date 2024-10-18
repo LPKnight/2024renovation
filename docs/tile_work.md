@@ -44,7 +44,7 @@
 - !!! warning "至少两间卧室的水泥开裂"
     不可避免？
 - ??? note "窗台石漏装"
-    <img src="./images/窗台石关键字.jpg" width="400"> 
+    <img src="../images/窗台石关键字.jpg" width="400"> 
     
     
 ###客厅
@@ -55,5 +55,5 @@
 
 ## 奇技淫巧
 ???+ note "看起来挺完美的筒二排"
-    <img src="./images/筒二排.png" width="400">
+    <img src="../images/筒二排.png" width="400">
 
