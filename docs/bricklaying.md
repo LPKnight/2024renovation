@@ -1,4 +1,4 @@
-# 木工
+# 砌墙
 
 ## 工艺要求
 ![避坑攻略](images/砌墙笔记.jpg "监工指南"){: figcaption=1235 style="width:40vw;" }
