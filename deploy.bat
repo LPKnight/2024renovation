@@ -1,5 +1,5 @@
 @echo off
 git add .
-git commit -m "更新了MD"
+git commit -m "upload md"
 git push origin main
 mkdocs gh-deploy
