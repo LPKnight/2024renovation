@@ -21,10 +21,14 @@
     在橱柜底板需要插入一体式延长管
 !!! failure "阳台洗衣机的下水口距离墙面20CM（<=10CM为佳）"
     洗烘套装只能靠外叠放
-!!! failure "主卧壁灯灯线位置预留错误"
-    太高又太靠近衣柜
-!!! failure "客卫马桶插座位置预留错误"
-    与排污口的距离太短，且使用了内嵌式插座
+??? failure "主卧壁灯灯线位置太高且与柜门冲突"
+    <video width="640" height="360" controls>
+        <source src="../videos/壁灯.mp4" type="video/mp4">
+    </video> 
+??? failure "客卫马桶插座位置与排污口的距离太短，且使用了内嵌式插座"
+    <img src="../images/马桶插座.jpg" width="50vw">
+!!! failure "主卫没有预留电热毛巾架的插座"
+    无解
 !!! failure "厨房预留的插座数量不够"
     尤其是进门左手处
 !!! failure "前置过滤器的高度错误"
