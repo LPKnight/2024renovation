@@ -26,7 +26,7 @@
         <source src="../videos/壁灯.mp4" type="video/mp4">
     </video> 
 !!! failure "客卫马桶插座位置与排污口的距离太短，且使用了内嵌式插座"
-    ![避坑攻略](images/马桶插座.jpg "颜色讨论"){: figcaption=1435 style="width:50vw;" }
+    ![避坑攻略](images/马桶插座.jpg "马桶插座"){: figcaption=1435 style="width:50vw;" }
 !!! failure "主卫没有预留电热毛巾架的插座"
     无解
 !!! failure "厨房预留的插座数量不够"
