@@ -25,8 +25,8 @@
     <video width="640" height="360" controls>
         <source src="../videos/壁灯.mp4" type="video/mp4">
     </video> 
-??? failure "客卫马桶插座位置与排污口的距离太短，且使用了内嵌式插座"
-    <img src="../images/马桶插座.jpg" width="50vw">
+!!! failure "客卫马桶插座位置与排污口的距离太短，且使用了内嵌式插座"
+    <img src="../images/马桶插座.jpg">
 !!! failure "主卫没有预留电热毛巾架的插座"
     无解
 !!! failure "厨房预留的插座数量不够"
