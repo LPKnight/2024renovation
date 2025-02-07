@@ -21,8 +21,8 @@
     有些地方的膜被腻子粉封死
 !!! warning "灯槽（铝合金）的侧面没有批腻子"
     后期只能涂刷~~金属漆~~乳胶漆
-- ??? warning "线型灯照射到的区域做完腻子没有验收"
-    ![避坑攻略](images/腻子验收.png "腻子验收"){: figcaption=1485 style="width:50vw;" }
+??? warning "线型灯照射到的区域做完腻子没有验收"
+    ![避坑攻略](images/腻子验收.jpg "腻子验收"){: figcaption=1485 style="width:50vw;" }
 
 ## 如何在瓷砖上刷漆
 ![避坑攻略](images/瓷砖上刷漆.png "瓷砖上刷漆"){: figcaption=1475 style="width:50vw;" }
