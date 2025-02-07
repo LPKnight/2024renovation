@@ -28,6 +28,7 @@ nav:
   - 全屋定制: customization.md
   - 五花八门的门: door.md
   - 油漆: painting.md
+  - 家电: homeAppliances.md
   
 extra_css:
   - stylesheets/custom.css
