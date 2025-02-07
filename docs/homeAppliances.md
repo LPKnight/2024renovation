@@ -26,6 +26,6 @@
 
 ### 滚筒的坑
 - ??? failure "洗衣机龙头不适配4分螺纹管"
-    <img src="/images/洗衣机龙头.jpg" alt="防水翻车事件梳理" width="40vw">
+    ![避坑攻略](images/洗衣机龙头.jpg "监工指南"){: figcaption=1235 style="width:40vw;" }
 - !!! warning "烘干机的电源线太短"
     只好再买一个插排
