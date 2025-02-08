@@ -12,15 +12,15 @@
 
 ## 杞人忧天记
 
-### 灯带接线
-???+ info "方案一"
-  ![避坑攻略](images/灯带接线方案一.png "监工指南"){: figcaption=1235 style="width:40vw;" }
-???+ info "方案二"
-  ![避坑攻略](images/灯带接线方案二.jpg "监工指南"){: figcaption=1335 style="width:40vw;" }
-  
 - [x] 地面挖槽担忧打穿层板
 - [x] 两个卫生间的铁管割断后会有什么后果
 
+### 灯带接线
+??? note "方案一"
+    <img src="../images/灯带接线方案一.png" width="50vw"> 
+??? note "方案二"
+    <img src="../images/灯带接线方案二.jpg" width="50vw"> 
+  
 ## 翻车实录
 !!! failure "阳台洗衣机的下水口距离墙面20CM（<=10CM为佳）"
     洗烘套装只能靠外叠放
