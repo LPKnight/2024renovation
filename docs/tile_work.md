@@ -44,8 +44,7 @@
 - !!! warning "至少两间卧室的水泥开裂"
     不可避免？
 - ??? note "窗台石漏装"
-    <img src="../images/窗台石关键字.jpg" width="50vw"> 
-    
+    ![避坑攻略](images/窗台石关键字.jpg "腻子验收"){: figcaption=1885 style="width:50vw;" }
     
 ###客厅
 - !!! failure "小范围空鼓"

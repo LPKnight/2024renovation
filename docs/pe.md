@@ -17,9 +17,9 @@
 
 ### 灯带接线
 ??? note "方案一"
-    <img src="../images/灯带接线方案一.png" width="50vw"> 
+    ![避坑攻略](images/灯带接线方案一.png "灯带接线方案一"){: figcaption=1885 style="width:50vw;" }
 ??? note "方案二"
-    <img src="../images/灯带接线方案二.jpg" width="50vw"> 
+    ![避坑攻略](images/灯带接线方案二.jpg "灯带接线方案二"){: figcaption=1885 style="width:50vw;" }
   
 ## 翻车实录
 !!! failure "阳台洗衣机的下水口距离墙面20CM（<=10CM为佳）"
@@ -32,7 +32,7 @@
     <video width="640" height="360" controls>
         <source src="../videos/壁灯.mp4" type="video/mp4">
     </video> 
-!!! failure "客卫马桶插座位置与排污口的距离太短，且使用了内嵌式插座"
+??? failure "客卫马桶插座位置与排污口的距离太短，且使用了内嵌式插座"
     ![避坑攻略](images/马桶插座.jpg "马桶插座"){: figcaption=1435 style="width:50vw;" }
 !!! failure "主卫没有预留电热毛巾架的插座"
     无解
