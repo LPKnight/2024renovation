@@ -30,6 +30,7 @@ nav:
   - 五花八门的门: door.md
   - 油漆: painting.md
   - 家电: homeAppliances.md
+  - 软装: softFurnishings.md
   
 extra_css:
   - stylesheets/custom.css
