@@ -28,8 +28,6 @@
     洗烘套装只能靠外叠放
 !!! failure "厨房下水口切的太短（到底是谁切的，存疑）"
     在橱柜底板需要插入一体式延长管
-!!! failure "阳台洗衣机的下水口距离墙面20CM（<=10CM为佳）"
-    洗烘套装只能靠外叠放
 ??? failure "主卧壁灯灯线位置太高且与柜门冲突"
     <video width="640" height="360" controls>
         <source src="../videos/壁灯.mp4" type="video/mp4">
