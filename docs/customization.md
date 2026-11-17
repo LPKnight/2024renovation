@@ -40,4 +40,4 @@
     柜子与瓷砖的交界处需要密封
 
 ## 颜色争议
-![避坑攻略](images/颜色争议.png "颜色争议"){: figcaption=1455 style="width:50vw;" }
+![避坑攻略](images/颜色讨论.png "颜色争议"){: figcaption=1455 style="width:50vw;" }
